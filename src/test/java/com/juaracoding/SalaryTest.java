@@ -18,4 +18,5 @@ public class SalaryTest {
         Salary salary = new Salary();
         Assert.assertEquals(salary.Salary(6100),6100);
     }
+    //wakanda
 }
